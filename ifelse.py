@@ -4,12 +4,12 @@
 # 3. take a input no. and check wheather +ve or -ve 
 # 4. take input char and check wheather its vowel or consonant 
 # 5. wap to evaluate percet grade>=90 = excelleent 
-# %>80
-# %>=70
-# %>=60 : Poor
-# 6. find largest AND SMALLEST amoung 3 no.
-# 7. even or not
-# 8. leap year
+# %>80 : very good
+# %>=70 : good
+# %>=60 : Poor, need to improve
+# 6. wap to find largest AND SMALLEST amoung 3 no.
+# 7. wap to display even or odd the number is
+# 8. wap to display its leap year or not
 
 # 1
 # x=int(input("enter a num"))
